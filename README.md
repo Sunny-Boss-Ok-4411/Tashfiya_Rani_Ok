@@ -42,7 +42,7 @@ If you want to login with an email password, go to Alamgir/configs/Alamgir.json 
 
 If You Use fbstate go to ``Alamgirstate.json`` and past fbstate
 
-if you run use ``email`` and ``password``, use Alamgir.json(``saveState:false``); otherwise, use Nayan.json(``saveState:true``)
+if you run use ``email`` and ``password``, use Alamgir.json(``saveState:false``); otherwise, use Alamgir.json(``saveState:true``)
 
 ## HOW TO GET 'AlamgirSTATE.JSON' DATA?
 
