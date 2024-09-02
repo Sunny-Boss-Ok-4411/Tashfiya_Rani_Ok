@@ -6,8 +6,8 @@ link : [facebook]([https://www.facebook.com/profile.php?id=100000959749712](http
 
 ## CREDITS
 
-original file : [BotPack]([https://replit.com/@YanMaglinte/BotPack?v=1](https://www.facebook.com/Normal.User.Alamgir.your.109)) by ```YanMaglinte```</br>
-modified : [NAYAN]([https://replit.com/@xaikonayan/NAYAN-BOT](https://www.facebook.com/Normal.User.Alamgir.your.109)?v=1) by ```Nayan Developer```
+original file : [BotPack]((https://www.facebook.com/Normal.User.Alamgir.your.109)) by ```YanMaglinte```</br>
+modified : [Alamgir](https://www.facebook.com/Normal.User.Alamgir.your.109)?v=1) by ```Alamgir Developer```
 
 ## CONFIG AND CUSTOM
 
