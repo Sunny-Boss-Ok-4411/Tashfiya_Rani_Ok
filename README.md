@@ -38,11 +38,11 @@ approve remove 4834812366643016
 
 ## Login System
 
-If you want to login with an email password, go to Alamgir/configs/Nayan.json and set your email password ``email``, ``password`` value
+If you want to login with an email password, go to Alamgir/configs/Alamgir.json and set your email password ``email``, ``password`` value
 
 If You Use fbstate go to ``Alamgirstate.json`` and past fbstate
 
-if you run use ``email`` and ``password``, use Nayan.json(``saveState:false``); otherwise, use Nayan.json(``saveState:true``)
+if you run use ``email`` and ``password``, use Alamgir.json(``saveState:false``); otherwise, use Nayan.json(``saveState:true``)
 
 ## HOW TO GET 'AlamgirSTATE.JSON' DATA?
 
