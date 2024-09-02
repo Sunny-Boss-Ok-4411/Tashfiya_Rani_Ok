@@ -13,7 +13,7 @@ modified : [Alamgir](https://www.facebook.com/Normal.User.Alamgir.your.109)?v=1)
 
 ALAMGIR.js : ``configure auto restart and auto accept pending messages.``</br>
 ALAMGIR.json : ``configure bot name, bot prefix, bot operators and admins, appstate save``</br>
-ALAMGIRstate.json : ``account cache data.``</br>Nayan/configs/alamgir.json : ``Set Your Bot Id Email Password``
+ALAMGIRstate.json : ``account cache data.``</br>Alamgir/configs/alamgir.json : ``Set Your Bot Id Email Password``
 
 ## BOX APPROVAL
 
